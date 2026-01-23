@@ -47,9 +47,3 @@ I enjoy working with **modern web technologies** and following **best practices*
 [![Website](https://img.shields.io/badge/Website-61DAFB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prasannadeveloper.in)
 
 ---
-
-## 📈 GitHub Stats
-
-![Prasanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasanna3300&show_icons=true&theme=radical)
-
----
