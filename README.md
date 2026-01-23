@@ -1,5 +1,4 @@
-# Hey! I'm Prasanna 👋  
-![Profile Views](https://komarev.com/ghpvc/?username=prasanna3300&color=brightgreen)
+# Hey! I'm Prasanna 👋  ![Profile Views](https://komarev.com/ghpvc/?username=prasanna3300&color=brightgreen)
 
 - Full-Stack Developer  
 - Build custom software solutions in addition to web applications  
